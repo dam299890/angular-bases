@@ -1,4 +1,9 @@
 {
     "oneDarkPro.vivid": true,
-    "oneDarkPro.bold": true
+    "oneDarkPro.bold": true,
+    "angular-schematics.schematicsDefaultOptions": {
+        "angular-*": {
+            "externalTemplate": true
+        }
+    }
 }
